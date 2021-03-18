@@ -1,3 +1,7 @@
+Add .env.local
+REACT_APP_NASA_ENDPOINT=https://api.nasa.gov
+REACT_APP_NASA_API_KEY= YOUR API KEY
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
